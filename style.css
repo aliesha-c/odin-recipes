@@ -9,7 +9,8 @@ body {
     font-size: 18px;
     color: hsl(203, 3%, 25%);
     background-color: #eeede7;
-    padding: 0 10px
+    padding: 0 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h1,
