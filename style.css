@@ -1,0 +1,29 @@
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: hsl(203, 3%, 25%);
+    background-color: #eeede7;
+    padding: 0 10px
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2
+}
+
+h1,
+figure,
+figcaption {
+    text-align: center;
+}
+
+img {
+    width: 90%;
+    max-width: max-content;
+    height: auto;
+    border: 5px solid #868b8e;
+    border-radius: 5px;
+}
